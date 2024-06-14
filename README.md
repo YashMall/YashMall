@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmall&show_icons=true&locale=en&layout=compact&theme=radical" alt="yashmall" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmall&&show_icons=true&locale=en&layout=compact&theme=radical" alt="yashmall" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmall&&show_icons=true&locale=en&layout=compact&theme=radical" alt="yashmall" width = "840px"/></p>
