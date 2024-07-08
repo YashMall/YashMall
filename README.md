@@ -22,7 +22,7 @@
 <hr>
 <h3 align="left">🏆Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmall&show_icons=true&locale=en&layout=compact&theme=radical" alt="yashmall"/></a> </p>
-
+<hr>
 <h3 align="left">🌟Contributions:</h3>
 <p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmall&langs_count=6&layout=compact&theme=radical" alt="yashmall" /></p>
 
