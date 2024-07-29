@@ -21,12 +21,12 @@
 <hr>
   <h3 align="left"> GSSOC'24 Accolades ✨ </h3>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /><a href="https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com"></a>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /><a href="https://gssoc.girlscript.tech/leaderboard"></a>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" /><a href="https://gssoc.girlscript.tech/leaderboard"></a>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" /><a href="https://gssoc.girlscript.tech/leaderboard"></a>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" /><a href="https://gssoc.girlscript.tech/leaderboard"></a>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /><a href="https://gssoc.girlscript.tech/leaderboard"></a>
+<a href="https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com"><img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
 </div>
 <hr>
 <h3 align="left">🏆Trophies:</h3>
