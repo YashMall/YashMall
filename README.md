@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGYbgQUTApgbA/profile-displaybackgroundimage-shrink_350_1400/0/1718352417492?e=1723680000&v=beta&t=o_z68J3FUpyCfCWx38D74I2s-MyVcDaOvoDqFxYpPBo">
+<img src="https://media.licdn.com/dms/image/D5616AQGYbgQUTApgbA/profile-displaybackgroundimage-shrink_200_800/0/1718352417492?e=2147483647&v=beta&t=8PRLi1Sn-3Naajq1NWqvWZ3N5kTUV5PjGHS5PhMOP1Q">
 <h1 align="center">Hi 👋, I'm Yash Mall.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmall&label=Profile%20views&color=0e75b6&style=flat" alt="yashmall" /> </p>
 
