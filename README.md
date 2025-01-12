@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGYbgQUTApgbA/profile-displaybackgroundimage-shrink_200_800/0/1718352417492?e=2147483647&v=beta&t=8PRLi1Sn-3Naajq1NWqvWZ3N5kTUV5PjGHS5PhMOP1Q" width = 1050px>
+<img src="[https://media.licdn.com/dms/image/D5616AQGYbgQUTApgbA/profile-displaybackgroundimage-shrink_200_800/0/1718352417492?e=2147483647&v=beta&t=8PRLi1Sn-3Naajq1NWqvWZ3N5kTUV5PjGHS5PhMOP1Q](https://www.linkedin.com/in/yashmall/overlay/background-image/)" width = 1050px>
 <h1 align="center">Hi 👋, I'm Yash Mall.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmall&label=Profile%20views&color=0e75b6&style=flat" alt="yashmall" /> </p>
 
